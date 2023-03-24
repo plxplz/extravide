@@ -1,0 +1,65 @@
+h1{
+    color:white;                                           /*Цвет*/
+    text-align: center;                                                  /*Выровнить по центру*/
+    font-size: 50px;                                                    /*Размер текста*/
+    
+
+    border: 5px solid;                                                /*Граница       */
+    padding: 30px;                                                   /*Внутри отступ */
+    margin: 50px;                                                   /*Снаружи отступ*/
+
+    border-radius: 20px ;                         /*Округление границы*/
+    border-color: black;                             /*Цвет границы*/
+    background-color: rgb(18, 179, 18);
+    
+
+   
+   
+}
+h2{
+    color:white;                                           /*Цвет*/
+    text-align: center;                                                  /*Выровнить по центру*/
+    font-size: 50px;                                                    /*Размер текста*/
+    
+
+    border: 5px solid;                                                /*Граница       */
+    padding: 30px;                                                   /*Внутри отступ */
+    margin: 2px;                                                   /*Снаружи отступ*/
+
+    border-radius: 100px 100px 20px 20px;                         /*Округление границы*/
+    border-color: black;                             /*Цвет границы*/
+    background-color:red;
+    
+
+   
+   
+}
+h3{
+    color:white;                                           /*Цвет*/
+    text-align: center;                                                  /*Выровнить по центру*/
+    font-size: 50px;                                                    /*Размер текста*/
+    
+
+    border: 5px solid;                                                /*Граница       */
+    padding: 30px;                                                   /*Внутри отступ */
+    margin: 2px;                                                   /*Снаружи отступ*/
+
+    border-radius: 20px 20px 100px 100px;                         /*Округление границы*/
+    border-color: black;                             /*Цвет границы*/
+    background-color:red;
+    
+
+   
+   
+}
+body{
+    background-color: rgb(112, 142, 23);
+}
+
+
+h2:hover {
+    scale:1.1;
+}
+h3:hover {
+    scale:1.1;
+}
