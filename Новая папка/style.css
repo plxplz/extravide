@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: auto;
+}
+div{
+    margin-top: 2px;
+    text-align: center;
+}
+.container{
+    width: auto;
+}
+.Header{
+    
+    background-color: rgb(147, 182, 159);
+    height: 50px;
+    margin: 10px;
+    padding: 20px;
+    border:2px solid rgb(57, 56, 56);
+}
+.navbar{
+    background-color: rgb(47, 164, 164);
+    height: 40px;
+    border: 2px solid rgb(8, 65, 94);
+    margin: 10px;
+    padding: 10px;
+}
+.MainContentArea{
+    background-color: aquamarine;
+    height: 500px;
+    border: 2px solid rgb(26, 95, 108);
+    margin: 10px;
+    padding: 10px;
+}
+.footer{
+    margin-top: 10px;
+    height: 100px;
+    background-color: rgb(11, 127, 88);
+    border: 3px solid rgb(26, 95, 108);
+    margin: 10px;
+    padding: 10px;
+}
+
